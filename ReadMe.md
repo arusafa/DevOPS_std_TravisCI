@@ -2,6 +2,6 @@
 
 ## Team Members
 - [Safa Aru]
-- [Goksen Inel]
+- [Hakan Inel]
 - [Gadise Oli]
 - [Goksen Inel]
