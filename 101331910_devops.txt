@@ -1,0 +1,36 @@
+This course is designed to better prepare professionals entering the IT field.
+Specifically, a field where servers, web apps and infrastructure will be core to
+business needs. COMP 3104 will provide a hands-on experience through the
+implementation of tried, tested and true DevOps technologies.
+We will also examine ways in which companies have either lost or saved fortunes
+with DevOps strategies. Learning about Amazon Web Services, Ansible, Docker and
+Travis CI, you will become familiar with end-to-end deployment processes. You will
+also have your very own build pipeline which will allow you to push changes to a
+web app in the wild at the stroke of a key.
+Using DevOps practices effectively will allow for a process predicated on ease to
+ship code to Production servers, apply hot-fixes, catch errors before they produce
+some sort of unintended behavior and keep transparency & communication
+heightened across all teams. Looking at the software development lifecycle
+through the lens of a DevOps Engineer will produce a more informed and qualified
+developer.
+Some of the git commands:
+git config
+Git Commands List
+ This command sets the author name and email address respectively to be used with your commits.
+Usage: git config –global user.name “[name]”
+Usage: git config –global user.email “[email address]”
+git init
+This command is used to start a new repository.
+Usage: git init [repository name]
+git clone
+This command is used to obtain a repository from an existing URL.
+Usage: git clone [url]
+git add
+This command adds a file to the staging area.
+Usage: git add [file]
+git commit
+This command records or snapshots the file permanently in the version history.
+Usage: git commit -m “[ Type in the commit message]”
+Usage: git commit -a
+This command commits any files you’ve added with the git add command and also commits any files you’ve changed since then.
+
