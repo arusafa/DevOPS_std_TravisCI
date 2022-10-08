@@ -1,4 +1,10 @@
 # COMP3104_Group18_Assignment1
+## Team Members
+- [Safa Aru]
+- [Hakan Inel]
+- [Gadise Oli]
+- [Goksen Inel]
+
 - [Safa Aru]
 - [101331910]
 - [Comp3104 Assignment 1]
