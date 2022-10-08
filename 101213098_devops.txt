@@ -1,0 +1,13 @@
+- DevOps is a new term emerging from the collision of two
+major related trends. The first was also called “agile
+infrastructure” or “agile operations”; it sprang from
+applying Agile and Lean approaches to operations work.
+- DevOps is “a cross-disciplinary community of practice
+dedicated to the study of building, evolving and operating
+rapidly-changing resilient systems at scale.” - Jez Humble
+- DevOps is a combination of software development and
+information technology operations that enables
+businesses to deliver applications at a faster pace. It
+brings together development and operations teams so
+there are fewer redundancies in the software
+development process.
