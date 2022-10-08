@@ -2,4 +2,4 @@
 - [Safa Aru]
 - [Comp3104 Assignment 1]
 - [https://github.com/arusafa/COMP3104_Group18_Assignment/tree/101331910-Safa]
-- [![Build Status](https://app.travis-ci.com/arusafa/arusafa-COMP3104_Group18_Assignment-.svg?branch=main)](https://app.travis-ci.com/arusafa/arusafa-COMP3104_Group18_Assignment-)
+- [![Build Status](https://app.travis-ci.com/arusafa/COMP3104_Group18_Assignment.svg?branch=main)](https://app.travis-ci.com/arusafa/COMP3104_Group18_Assignment)
