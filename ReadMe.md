@@ -6,3 +6,9 @@
 
 ## My Repo ##
 https://github.com/arusafa/COMP3104_Group18_Assignment/tree/101213098-Hakan
+
+TEAM MEMBERS
+[Safa Aru]
+[Hakan Inel]
+[Gadise Oli]
+[Goksen Inel]
