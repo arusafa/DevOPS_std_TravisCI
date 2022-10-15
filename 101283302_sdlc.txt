@@ -1,8 +1,8 @@
-A DevOps engineer is an IT professional who has an in-depth understanding of the software development
+- A DevOps engineer is an IT professional who has an in-depth understanding of the software development
 lifecycle. They need to understand why the organization had to move from one model to the other,
 the shortcomings of the previous model, the benefits of the new model, and so on.
 
-A DevOps engineer also must know how to use various automation tools
+ - A DevOps engineer also must know how to use various automation tools
 for developing continuous integration and continuous deployment (CI/CD) pipelines.
 This demand position requires a special set of DevOps skills,
 which we will explore more in-depth later.
