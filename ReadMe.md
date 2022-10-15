@@ -1,9 +1,6 @@
 # COMP3104_Group18_Assignment
 
-## Team Members
-- [Safa Aru]
-- [Hakan Inel]
-- [Gadise Oli]
+## Comp3104
 - [Goksen Inel]
-
--[![Build Status](https://app.travis-ci.com/arusafa/COMP3104_Group18_Assignment.svg?branch=main)](https://app.travis-ci.com/arusafa/COMP3104_Group18_Assignment)
+- [101283302]
+- My repository = https://github.com/arusafa/COMP3104_Group18_Assignment/tree/101283302-Goksen
