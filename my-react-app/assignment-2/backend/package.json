@@ -1,0 +1,32 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "i": "^0.3.7",
+    "mongoose": "^6.7.2",
+    "save-dev": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arusafa/101331910-comp3123-assignment2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arusafa/101331910-comp3123-assignment2/issues"
+  },
+  "homepage": "https://github.com/arusafa/101331910-comp3123-assignment2#readme",
+  "description": ""
+}
