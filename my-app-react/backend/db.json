@@ -1,0 +1,75 @@
+{
+  "employees": [
+    {
+      "id": "63775212f2be567f46dd2591",
+      "first_name": "Pritesh",
+      "last_name": "Patel",
+      "email_id": "pritesh.patel@georgebrown.ca",
+      "__v": 0
+    },
+    {
+      "id": "63775233f2be567f46dd2593",
+      "first_name": "Sergio",
+      "last_name": "Santilli",
+      "email_id": "santilli.sergio@georgebrown.ca",
+      "__v": 0
+    },
+    {
+      "id": "637754bcf2be567f46dd259d",
+      "first_name": "Reza",
+      "last_name": "Dibaj",
+      "email_id": "reza.dibaj@georgebrown.ca",
+      "__v": 0
+    },
+    {
+      "id": "637754d6f2be567f46dd259f",
+      "first_name": "Anna",
+      "last_name": "Carolina",
+      "email_id": "carolina.anna@gmail.com",
+      "__v": 0
+    },
+    {
+      "id": "637754faf2be567f46dd25a1",
+      "first_name": "John",
+      "last_name": "Wick",
+      "email_id": "wick.jhon@icloud.com",
+      "__v": 0
+    },
+    {
+      "id": "6378658d3ac3942dfea0cf6f",
+      "first_name": "Maziar",
+      "last_name": "Masuidi",
+      "email_id": "masuidi.maziar@gmail.com",
+      "__v": 0
+    },
+    {
+      "id": "637866593ac3942dfea0cf72",
+      "first_name": "Leanne",
+      "last_name": "Graham",
+      "email_id": "Sincere@april.biz",
+      "__v": 0
+    }
+  ],
+  "users": [
+    {
+      "id": "6378a4924196012f2b08d045",
+      "first_name": "Azin",
+      "last_name": "Mahsuiudi",
+      "email_id": "azin.mahsuidi-93@icloud.com"
+    },
+    {
+      "id": "6378a1544196012f2b08d02c",
+      "first_name": "Onur",
+      "last_name": "Korkmaz",
+      "email_id": "onur.korkmaz@georgebrown.ca",
+      "__v": 0
+    },
+    {
+      "id": "6378a2304196012f2b08d02f",
+      "first_name": "Rebeca",
+      "last_name": "Alleggrini",
+      "email_id": "alleg-rebeca@icloud.com",
+      "__v": 0
+    }
+  ]
+}
